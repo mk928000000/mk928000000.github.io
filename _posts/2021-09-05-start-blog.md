@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 깃 블로그 시작! 
 <br>
-여기저기서 만드는 방법을 찾아보는데 볼때마다 막혀 정리했다.
+여기저기서 만드는 방법을 찾아보는데 볼때마다 막혀 정리했다. <!--more-->
 <br><br>
 ###jekyll로 깃 블로그 만들기
 <br>
@@ -51,15 +51,13 @@ excerpt_separator: <!--more-->
      <br><br>
      
    * 설치 plugin : &mdash; (_config.yml 의 plugin 목록 설치)<br>
-   
-   {% highligh markdown %}
      <sub>- jekyll-feed</sub><br>
      <sub>- jekyll-paginate</sub><br>
      <sub>- jekyll-seo-tag</sub>   
      1. _config.yml 에 플러그인 목록 기재 확인
      2. <sub>cmd</sub> gem install jekyll-feed jekyll-paginate jekyll-seo-tag<br><br>
-   {% endhighlight %}
-     3. 
+   
+
    * _config.yml
        1. baseurl 주석. <br><sub>'/' 말고 다른거하면 sass css 다 깨진다; 나중엔 포스트를 볼 수 없게되서 주석처리함</sub>
        2. url : 깃블로그 주소  "https://깃아이디.github.io/"
