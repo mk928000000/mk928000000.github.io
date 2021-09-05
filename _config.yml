@@ -1,6 +1,7 @@
 # Site settings
 title:          Blog
 description:    "start engineer"
+# basurl 을 / 말고 다른거하면 sass css 다 깨진다;;
 baseurl:        "/"
 url:            "https://mk928000000.github.io"
 
