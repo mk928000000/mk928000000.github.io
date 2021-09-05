@@ -101,11 +101,14 @@ excerpt_separator: <!--more-->
 <br>
 
 ### Plugins 설치 (Tale 테마기준)
-> . jekyll-feed
-> . jekyll-paginate
-> . jekyll-seo-tag
-
-<sub> 설치 테마와 플러그인은 테마마다 다르다. `_config.yml` 파일의 `plugins` 목록을 참조한다.</sub>
+>설치 테마와 플러그인은 테마마다 다르다. `_config.yml` 파일의 `plugins` 목록을 참조한다. <br>
+<sub>
+. jekyll-feed <br>
+. jekyll-paginate <br>
+. jekyll-seo-tag <br>
+</sub><br>
+> 1. gem install jekyll-paginate jekyll-paginate jekyll-seo-tag <br>
+> 2. bundle exec jekyll serve
 
 <br>
 
