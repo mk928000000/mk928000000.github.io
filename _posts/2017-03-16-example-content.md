@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to write md file"
+title: "How to write md files"
 author: "Chester"
 tags: Blog
 excerpt_separator: <!--more-->
