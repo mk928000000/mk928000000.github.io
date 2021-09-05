@@ -118,7 +118,10 @@ excerpt_separator: <!--more-->
 <sub></sub>
    * 깃 푸쉬
      > git bash 로 푸쉬하거나 webStorm 으로 할 수 있다.
-     > git bash 
+     > git bash 로 푸쉬
+     > ![gitBashPush](/assets/img/gitPush.PNG "gitBash 로 푸쉬")
+     > webStorm 으로 푸쉬
+     > ![webStormPush](/assets/img/gitPush.PNG "gitBash 로 푸쉬")
    * 'gitHub계정명.github.io' 을 주소창에 치면 사용한 테마가 반영된 깃블로그가 확인된다.
 
 <br><br><br>   
