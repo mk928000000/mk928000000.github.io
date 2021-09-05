@@ -1,7 +1,7 @@
 # Site settings
 title:          Blog
 description:    "start engineer"
-# basurl 을 / 말고 다른거하면 sass css 다 깨진다;;
+# basurl 을 / 말고 다른거하면 sass css 다 깨진다; 나중엔 포스트를 볼 수 없게되서 주석처리함
 #baseurl:        "/"
 url:            "https://mk928000000.github.io/"
 
@@ -33,6 +33,7 @@ plugins:
 
 # theme
 # theme: tale
+remote_theme: chesterhow/tale
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
