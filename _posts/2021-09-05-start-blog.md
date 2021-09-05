@@ -2,7 +2,7 @@
 layout: post
 title: "GIT BLOG 시작"
 author: "mk928000000"
-tags: blog
+tags: Blog
 excerpt_separator: <!--more-->
 ---
 
@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 
 <sub>GitBlog 는 Git commit 으로 관리하지만 고치기 번거롭다. 로컬 서버를 띄워 바로 확인하기 위해 Ruby를 사용한다.</sub>
 
-<br><br>
+<br><br><br>
 
 # Jekyll theme 으로 깃블로그 repo 생성
 ### jekyll theme 선택      
@@ -118,18 +118,17 @@ excerpt_separator: <!--more-->
 ### 깃 푸쉬
 git bash 로 푸쉬하거나 webStorm 으로 할 수 있다.
 <br>
->git bash 로 할 경우 명령어 <br>
-> 1. git add .
-> 2. git commit -m "커밋 메세지"
-> 3. git push <br><br>
+> **git bash 로 할 경우 명령어** <br>
+> git add .<br> 
+> git commit -m "커밋 메세지"<br>
+> git push <br><br>
 > ![gitBashPush](/assets/img/gitPush.PNG "gitBash 로 푸쉬")
 > _[ git bash 로 푸쉬 ]_
-> <br> 
-> webStorm 으로 할 경우 경로 <br>
-> 1. 왼쪽 사이드바 commit
-> 2. 변경 내용 중 commit 할 내용 체크
-> 3. 커밋 메세지 입력
-> 4. 하단 commit and push <br><br>
+> <br><br>
+> **webStorm 으로 할 경우 경로** <br>
+> 왼쪽 사이드바 commit 클릭 <br>
+> 변경 내용 중 commit 할 내용 체크 커밋 메세지 입력<br>
+> 하단 commit and push <br><br>
 > ![webStormPush](/assets/img/webStormPush.PNG "gitBash 로 푸쉬")
 > _[ webStorm 으로 푸쉬 ]_
      
@@ -142,11 +141,11 @@ git bash 로 푸쉬하거나 webStorm 으로 할 수 있다.
 <br><br><br>   
 # 참조
 ### Tale 테마의 _config.yml 파일
->1. baseurl 주석.<br> `/` 말고 다른거하면 sass css 다 깨진다. 나중엔 포스트를 볼 수 없게되서 주석처리했다.
->2. url : 깃블로그 주소 <br> "https://깃아이디.github.io/"
->3. authour 공란. <br> tale 은 편리하게도 authour.xml 이나  tags.xml 이 없다. md 마다 상단 기재로 알아서 태그 등록되고 작성자로 써진다.
+>1. baseurl 주석<br> 나중엔 포스트를 볼 수 없게되서 주석처리했다.
+>2. url : `깃블로그 주소` <br> 
+>3. authour 공란 <br> tale 은 편리하게도 authour.xml 이나  tags.xml 이 없다. md 마다 상단 기재로 알아서 태그 등록되고 작성자로 써진다.
 
-<br><br>
+<br><br><br>
 
 # 실행 오류
 ###  cannot load such file -- webrick (LoadError) 오류
