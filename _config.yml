@@ -32,7 +32,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # theme
-theme: tale
+# theme: tale
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
