@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "How to Post"
+title: "How to write md file"
 author: "Chester"
 tags: Blog
 excerpt_separator: <!--more-->
 ---
+md 파일 작성 방법
+
+<!--more--> 
+<br><br><br>
+<hr>
 
 # Headers
 {% highlight markdown %}

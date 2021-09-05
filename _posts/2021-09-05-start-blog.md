@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 <br>
 여기저기서 만드는 방법을 찾아보는데 볼때마다 막혀 정리했다. <!--more-->
 <br><br><br>
+<hr>
 
 # 사전준비
 {% highlight markdown %}

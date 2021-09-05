@@ -9,8 +9,8 @@ excerpt_separator: <!--more-->
 
 기본 포스트의 머릿글에 대한 설명이다.
 <!--more-->
-<br>
-<br>
+<br><br><br>
+<hr>
 
 ## 기본 구성
 > layout: post <br>
@@ -38,3 +38,6 @@ excerpt_separator: <!--more-->
 <br> hidden 을 true 로 둬야 페이지당 보이는 갯수를 무시하고 상단에 노출시킬 수 있으므로 둘은 세트로 볼 수 있다. 
 <br> 가 제작자 설명인데 hidden 을 지워봐도 작동 잘된다. 세트라니까 같이 써야겠다.
 * comment         : 댓글란을 표시한다. /_confing.yml 로 테마를 바꾸면 댓글스타일을 바꿀 수 있다고한다.
+
+<br><br><br>
+_The end_
