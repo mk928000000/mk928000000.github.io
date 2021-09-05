@@ -5,7 +5,7 @@ description:    "start engineer"
 #baseurl:        "/"
 url:            "https://mk928000000.github.io/"
 
-# Google Analytics
+# Google Analytics 방문통계 쓰려면 google analytics 계정만들어서 등록하면 된다고 한다
 google_analytics: UA—XXXXXXXX-X
 
 # Author
@@ -33,7 +33,7 @@ plugins:
 
 # theme
 # theme: tale
-#remote_theme: chesterhow/tale
+remote_theme: chesterhow/tale
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
