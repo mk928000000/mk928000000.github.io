@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Example Content"
+title: "포스트 작성 방법"
 author: "Chester"
-tags: Example
+comments: true
+tags: Blog
 excerpt_separator: <!--more-->
 ---
 
@@ -25,7 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 ##### H5
 ###### H6
 
-# 모야 너랑나랑 다른게 뭔데 적용이 안되냐 
 
 # Text formatting
 {% highlight markdown %}
