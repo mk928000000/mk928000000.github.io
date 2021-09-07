@@ -6,9 +6,15 @@ tags: Blog
 excerpt_separator: <!--more-->
 ---
 
+2021-09-08
+<br>
+Segoe UI 로 폰트를 바꿨다. 윈도우 GIT HUB 기본 폰트로 나오는데 이게 훨씬 보기 좋다.
+<!--more-->
+<br><br><br>
+<hr>
+
 
 영어기준이라 기본 한글폰트가 심히 못생겼다. 깃블로그에 네이버의 D2Coding 폰트를 적용했다.
-<!--more-->
 <br><br><br>
 <hr>
 
