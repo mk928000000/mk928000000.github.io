@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML 공부 기록"
+title: "HTML 기초"
 author: "mk928000000"
 tags: HTML
 excerpt_separator: <!--more-->
@@ -8,6 +8,9 @@ excerpt_separator: <!--more-->
 
 
 부스트코스 기초강의 보면서 몰랐던 부분들에 대한 기록이다.
+> 두칸이상 띄어쓰기, <dl>태그, Table 구조, 시멘틱 마크업, 인라인과 블럭요소
+ 
+
 <!--more-->
 <br><br><br>
 <hr>
