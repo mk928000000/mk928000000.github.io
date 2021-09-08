@@ -46,8 +46,9 @@ dl(definition/description list) 태그이다. 용어와 그에 대한 정의를 
 * `<thead>`  :제목행 그룹을 나타낸다
 * `<tfoot>`  : 바닥행 그룹을 나타낸다
 * `<tbody>`  : 본문행 그룹을 나타낸다
-//부스트코스 예시
+
 {% highlight js linenos %}
+//부스트코스 예시
 <table>
     <caption>Monthly Savings</caption>
     <thead>
@@ -80,8 +81,9 @@ dl(definition/description list) 태그이다. 용어와 그에 대한 정의를 
 ## #Table 구조 관련 태그
 `<label>` 은 form 요소의 이름과 form 요소를 명시적으로 연결시켜준다. <br>
 스크린 리더기로 접근 시 해당 form 요소에 접근하면 `<label>` 을 함께 읽어준다. 중요하므로 써주는게 좋다.
-//부스트코스 예시
+
 {% highlight js linenos %}
+//부스트코스 예시
     <label for="name">이름</label>: <input type="text" id="name"><br>
     <label for="nickname">이름</label>: <input type="text" id="nickname"><br>
     <label for="address">이름</label>: <input type="text" id="address"><br>
