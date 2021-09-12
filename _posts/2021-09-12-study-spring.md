@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "< form:form > 태그 사용법"
+title: "< form:form > 태그"
 author: "mk928000000"
 tags: SPRING JAVA
 excerpt_separator: <!--more-->
